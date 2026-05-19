@@ -11,17 +11,15 @@
 
 <!-- Stats Section -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO_GITHUB&show_icons=true&theme=tokyonight&hide_border=true" alt="Andres Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=TU_USUARIO_GITHUB&theme=tokyonight&hide_border=true" alt="Andres Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Andresdevelope&show_icons=true&theme=tokyonight&hide_border=true" alt="Andres Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Andresdevelope&theme=tokyonight&hide_border=true" alt="Andres Streak" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=TU_USUARIO_GITHUB&show_icons=true&theme=tokyonight&hide_border=true&layout=compact" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Andresdevelope&show_icons=true&theme=tokyonight&hide_border=true&layout=compact" alt="Top Languages" />
 </p>
 
 ## 🛠 Tech Stack
-
-Aquí presento las tecnologías y herramientas con las que trabajo habitualmente, organizadas por su área de aplicación:
 
 <table>
     <tr>
@@ -38,7 +36,7 @@ Aquí presento las tecnologías y herramientas con las que trabajo habitualmente
     </tr>
     <tr>
         <td style="font-weight: bold; padding-right: 10px; border: none;">Frontend Frameworks:</td>
-        <td><img height="40" src="https://skillicons.dev/icons?i=bootstrap,tailwind"/></td>
+        <td><img height="40" src="https://skillicons.dev/icons?i=bootstrap,tailwindcss"/></td>
     </tr>
     <tr>
         <td style="font-weight: bold; padding-right: 10px; border: none;">Databases:</td>
@@ -55,19 +53,13 @@ Aquí presento las tecnologías y herramientas con las que trabajo habitualmente
 </table>
 
 ## 📈 GitHub Contribution Graph
-*(GitHub genera esto automáticamente en tu perfil principal, pero si quieres visualizar tu actividad reciente, este es el resumen)*
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=TU_USUARIO_GITHUB&theme=tokyonight&hide_border=true&area=true" alt="Activity Graph" />
+  <img src="https://raw.githubusercontent.com/Andresdevelope/Andresdevelope/output/github-contribution-grid-snake-dark.svg" alt="Snake animation dark" />
 </div>
 
 ---
 
 <p align="center">
   ¡Gracias por visitar mi perfil! Si quieres colaborar o hablar de tecnología, no dudes en escribirme.
-</p>
-
-<p align="center">
-  <a href="mailto:tu-email@ejemplo.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://linkedin.com/in/tu-perfil"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 </p>
