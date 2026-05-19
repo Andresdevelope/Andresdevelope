@@ -1,16 +1,73 @@
-## Hi there 👋
+<!-- Banner -->
+<img src="https://github.com/Jaydeep-Yadav/Jaydeep-Yadav/blob/main/banner.png?raw=true" alt="Banner" width="100%">
 
-<!--
-**Andresdevelope/Andresdevelope** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">Hola, soy Andrés Rivero 👋</h1>
+<h3 align="center">Junior Backend Developer | Estudiante de Ingeniería en Computación</h3>
 
-Here are some ideas to get you started:
+<p align="center">
+  Apasionado por el desarrollo backend, la arquitectura de software y la creación de soluciones eficientes. 
+  Actualmente enfocado en el crecimiento de <b>ARtech</b> y el desarrollo de sistemas robustos.
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<!-- Stats Section -->
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO_GITHUB&show_icons=true&theme=tokyonight&hide_border=true" alt="Andres Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=TU_USUARIO_GITHUB&theme=tokyonight&hide_border=true" alt="Andres Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=TU_USUARIO_GITHUB&show_icons=true&theme=tokyonight&hide_border=true&layout=compact" alt="Top Languages" />
+</p>
+
+## 🛠 Tech Stack
+
+Aquí presento las tecnologías y herramientas con las que trabajo habitualmente, organizadas por su área de aplicación:
+
+<table>
+    <tr>
+        <td style="font-weight: bold; padding-right: 10px; border: none;">Backend Languages:</td>
+        <td><img height="40" src="https://skillicons.dev/icons?i=php,python"/></td>
+    </tr>
+    <tr>
+        <td style="font-weight: bold; padding-right: 10px; border: none;">Backend Frameworks:</td>
+        <td><img height="40" src="https://skillicons.dev/icons?i=laravel,django"/></td>
+    </tr>
+    <tr>
+        <td style="font-weight: bold; padding-right: 10px; border: none;">Frontend UI/Languages:</td>
+        <td><img height="40" src="https://skillicons.dev/icons?i=html,css,js"/></td>
+    </tr>
+    <tr>
+        <td style="font-weight: bold; padding-right: 10px; border: none;">Frontend Frameworks:</td>
+        <td><img height="40" src="https://skillicons.dev/icons?i=bootstrap,tailwind"/></td>
+    </tr>
+    <tr>
+        <td style="font-weight: bold; padding-right: 10px; border: none;">Databases:</td>
+        <td><img height="40" src="https://skillicons.dev/icons?i=mysql,postgresql"/></td>
+    </tr>
+    <tr>
+        <td style="font-weight: bold; padding-right: 10px; border: none;">Tools/VCS:</td>
+        <td><img height="40" src="https://skillicons.dev/icons?i=git,github,vscode"/></td>
+    </tr>
+    <tr>
+        <td style="font-weight: bold; padding-right: 10px; border: none;">Methodology:</td>
+        <td style="font-family: monospace; font-size: 14px;">Agile, Extreme Programming (XP), MVC Architecture</td>
+    </tr>
+</table>
+
+## 📈 GitHub Contribution Graph
+*(GitHub genera esto automáticamente en tu perfil principal, pero si quieres visualizar tu actividad reciente, este es el resumen)*
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=TU_USUARIO_GITHUB&theme=tokyonight&hide_border=true&area=true" alt="Activity Graph" />
+</div>
+
+---
+
+<p align="center">
+  ¡Gracias por visitar mi perfil! Si quieres colaborar o hablar de tecnología, no dudes en escribirme.
+</p>
+
+<p align="center">
+  <a href="mailto:tu-email@ejemplo.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://linkedin.com/in/tu-perfil"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+</p>
