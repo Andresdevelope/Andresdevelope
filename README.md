@@ -52,10 +52,11 @@
     </tr>
 </table>
 
-## 📈 GitHub Contribution Graph
+## 🐍 GitHub Contribution Snake (Dark Mode)
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Andresdevelope/Andresdevelope/output/github-contribution-grid-snake-dark.svg" alt="Snake animation dark" />
+  <!-- Animación de la culebrita interactiva consumiendo los bloques de commits públicos recientes -->
+  <img src="https://raw.githubusercontent.com/Andresdevelope/Andresdevelope/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation Dark" width="100%" />
 </div>
 
 ---
